@@ -3,14 +3,14 @@ import React from 'react'
 export default class Slider extends React.Component {
     render() {
         return (
-            <div class="vc_row wpb_row vc_row-fluid">
-                <div class="nocontainer">
-                    <div class="vc_col-sm-12 wpb_column vc_column_container ">
-                        <div class="wpb_wrapper">
-                            <div class="wpb_revslider_element wpb_content_element">
+            <div className="vc_row wpb_row vc_row-fluid">
+                <div className="nocontainer">
+                    <div className="vc_col-sm-12 wpb_column vc_column_container ">
+                        <div className="wpb_wrapper">
+                            <div className="wpb_revslider_element wpb_content_element">
                                 {/* <!-- START REVOLUTION SLIDER 4.6.0 fullscreen mode --> */}
-                                <div id="rev_slider_3_1_wrapper" class="rev_slider_wrapper fullscreen-container">
-                                    <div id="rev_slider_3_1" class="rev_slider fullscreenbanner">
+                                <div id="rev_slider_3_1_wrapper" className="rev_slider_wrapper fullscreen-container">
+                                    <div id="rev_slider_3_1" className="rev_slider fullscreenbanner">
                                         <ul>
                                             {/* <!-- SLIDE  --> */}
                                             <li data-transition="fade" data-slotamount="7" data-masterspeed="600" data-saveperformance="off" >
@@ -19,7 +19,7 @@ export default class Slider extends React.Component {
                                                     {/* <!-- LAYERS --> */}
         
                                                     {/* <!-- LAYER NR. 1 --> */}
-                                                    <div class="tp-caption tzcharacters customin tp-resizeme"
+                                                    <div className="tp-caption tzcharacters customin tp-resizeme"
                                                         data-x="390"
                                                         data-y="237"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1.1;scaleY:1.1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
@@ -34,7 +34,7 @@ export default class Slider extends React.Component {
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 2 --> */}
-                                                    <div class="tp-caption customin stt tp-resizeme"
+                                                    <div className="tp-caption customin stt tp-resizeme"
                                                         data-x="148"
                                                         data-y="center" data-voffset="-68"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1.1;scaleY:1.1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
@@ -47,13 +47,13 @@ export default class Slider extends React.Component {
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
                                                         data-endeasing="Power0.easeIn">
-                                                        <div class="tp-layer-inner-rotation tztitle-slider">
+                                                        <div className="tp-layer-inner-rotation tztitle-slider">
                                                             Selina
                                                         </div>
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 3 --> */}
-                                                    <div class="tp-caption customin stb tp-resizeme"
+                                                    <div className="tp-caption customin stb tp-resizeme"
                                                         data-x="85"
                                                         data-y="center" data-voffset="72"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1.1;scaleY:1.1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
@@ -66,7 +66,7 @@ export default class Slider extends React.Component {
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
                                                         data-endeasing="Power0.easeIn">
-                                                        <div class="tp-layer-inner-rotation tztitle-slider ">
+                                                        <div className="tp-layer-inner-rotation tztitle-slider ">
                                                             Jacos
                                                         </div>
                                                     </div>
@@ -78,7 +78,7 @@ export default class Slider extends React.Component {
                                                     {/* <!-- LAYERS --> */}
             
                                                     {/* <!-- LAYER NR. 1 --> */}
-                                                    <div class="tp-caption customin customout"
+                                                    <div className="tp-caption customin customout"
                                                         data-x="center" data-hoffset="0"
                                                         data-y="center" data-voffset="30"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1.1;scaleY:1.1;skewX:0;skewY:0;opacity:0transformPerspective:600;transformOrigin:50% 50%;"
@@ -94,7 +94,7 @@ export default class Slider extends React.Component {
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 2 --> */}
-                                                    <div class="tp-caption tztitle2 tp-fade stt tp-resizeme"
+                                                    <div className="tp-caption tztitle2 tp-fade stt tp-resizeme"
                                                         data-x="center" data-hoffset="0"
                                                         data-y="center" data-voffset="-85"
                                                         data-speed="600"
@@ -109,7 +109,7 @@ export default class Slider extends React.Component {
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 3 --> */}
-                                                    <div class="tp-caption sfr str"
+                                                    <div className="tp-caption sfr str"
                                                         data-x="center" data-hoffset="0"
                                                         data-y="center" data-voffset="-30"
                                                         data-speed="600"
@@ -122,7 +122,7 @@ export default class Slider extends React.Component {
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 4 --> */}
-                                                    <div class="tp-caption slider_ds sfb stb tp-resizeme"
+                                                    <div className="tp-caption slider_ds sfb stb tp-resizeme"
                                                         data-x="center" data-hoffset="0"
                                                         data-y="center" data-voffset="20"
                                                         data-speed="1200"
@@ -137,7 +137,7 @@ export default class Slider extends React.Component {
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 5 --> */}
-                                                    <div class="tp-caption slider_dateevent sfb stb tp-resizeme"
+                                                    <div className="tp-caption slider_dateevent sfb stb tp-resizeme"
                                                         data-x="center" data-hoffset="0"
                                                         data-y="center" data-voffset="70"
                                                         data-speed="1200"
@@ -152,7 +152,7 @@ export default class Slider extends React.Component {
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 6 --> */}
-                                                    <div class="tp-caption slider_dateevent customin customout tp-resizeme"
+                                                    <div className="tp-caption slider_dateevent customin customout tp-resizeme"
                                                         data-x="center" data-hoffset="0"
                                                         data-y="center" data-voffset="135"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.05;scaleY:0.05;skewX:0;skewY:0;opacittransformPerspective:600;transformOrigin:50% 50%;"
@@ -165,7 +165,7 @@ export default class Slider extends React.Component {
                                                         data-elementdelay="0.1"
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
-                                                        data-endeasing="Power4.easeOut"><a href='#' class="tzbtn_slider">JOIN THE EVENT</a>
+                                                        data-endeasing="Power4.easeOut"><a href='#' className="tzbtn_slider">JOIN THE EVENT</a>
                                                     </div>
                                                 </li>
                                                 {/* <!-- SLIDE  --> */}
@@ -175,7 +175,7 @@ export default class Slider extends React.Component {
                                                     {/* <!-- LAYERS --> */}
                             
                                                     {/* <!-- LAYER NR. 1 --> */}
-                                                    <div class="tp-caption tztitle-slider sfr stl tp-resizeme"
+                                                    <div className="tp-caption tztitle-slider sfr stl tp-resizeme"
                                                         data-x="center" data-hoffset="-210"
                                                         data-y="center" data-voffset="0"
                                                         data-speed="1200"
@@ -190,7 +190,7 @@ export default class Slider extends React.Component {
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 2 --> */}
-                                                    <div class="tp-caption tztitle-slider sfl str tp-resizeme"
+                                                    <div className="tp-caption tztitle-slider sfl str tp-resizeme"
                                                         data-x="center" data-hoffset="215"
                                                         data-y="center" data-voffset="0"
                                                         data-speed="1200"
@@ -205,7 +205,7 @@ export default class Slider extends React.Component {
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 3 --> */}
-                                                    <div class="tp-caption tzcharacters2 customin customout tp-resizeme"
+                                                    <div className="tp-caption tzcharacters2 customin customout tp-resizeme"
                                                         data-x="center" data-hoffset="0"
                                                         data-y="center" data-voffset="15"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.05;scaleY:0.05;skewX:0;skewY:0;opacitransformPerspective:600;transformOrigin:50% 50%;"
@@ -218,11 +218,11 @@ export default class Slider extends React.Component {
                                                         data-elementdelay="0.1"
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="300"
-                                                        data-endeasing="Power4.easeOut"><i class="fa fa-heart"></i>
+                                                        data-endeasing="Power4.easeOut"><i className="fa fa-heart"></i>
                                                     </div>
                                                 </li>
                                             </ul>
-                                        <div class="tp-bannertimer"></div>
+                                        <div className="tp-bannertimer"></div>
                                     </div>
                                 </div>
                             {/* <!-- END REVOLUTION SLIDER --> */}
