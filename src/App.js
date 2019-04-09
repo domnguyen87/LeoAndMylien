@@ -21,6 +21,7 @@ class App extends Component {
           <img className="loadding_img" src="images/loadding.GIF" alt="Image" />
         </div> */}
         <div className="everline_boxed">
+          
           <Header />
           {/* <Slider />
           <CountDown />
