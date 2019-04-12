@@ -1,6 +1,7 @@
 import React from 'react'
+import Header from './Header';
 
-export default class Rsvp extends React.Component {
+class Rsvp extends React.Component {
     render() {
         return (
             <div className="vc_row wpb_row vc_row-fluid">
@@ -56,3 +57,5 @@ export default class Rsvp extends React.Component {
     }
     
 }
+
+export default Header
