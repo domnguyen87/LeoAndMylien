@@ -52,7 +52,7 @@ export default class Header extends React.Component {
                                                                             <li id="menu-item-459" className="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home">
                                                                                 <a href="index.html">Header 1</a></li>
                                                                             <li id="menu-item-411" className="menu-item menu-item-type-post_type menu-item-object-page">
-                                                                                <a href="header-2.html">Header 2</a>
+                                                                                <a href="header-2.html">Header 2 </a>
                                                                             </li>
                                                                             <li id="menu-item-415" className="menu-item menu-item-type-post_type menu-item-object-page">
                                                                                 <a href="header-3.html">Header 3</a>
