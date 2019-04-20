@@ -15,7 +15,7 @@ export default class Slider extends React.Component {
                                             {/* <!-- SLIDE  --> */}
                                             <li data-transition="fade" data-slotamount="7" data-masterspeed="600" data-saveperformance="off" >
                                                 {/* <!-- MAIN IMAGE --> */}
-                                                <img src="http://placehold.it/1920x923" alt="everline" data-bgposition="center top" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="110" data-bgpositionend="center center" />
+                                                <img src="/images/1920X923.jpg" alt="everline" data-bgposition="center top" data-kenburns="on" data-duration="9000" data-ease="Linear.easeNone" data-bgfit="100" data-bgfitend="110" data-bgpositionend="center center" />
                                                     {/* <!-- LAYERS --> */}
         
                                                     {/* <!-- LAYER NR. 1 --> */}
@@ -48,7 +48,7 @@ export default class Slider extends React.Component {
                                                         data-endspeed="400"
                                                         data-endeasing="Power0.easeIn">
                                                         <div className="tp-layer-inner-rotation tztitle-slider">
-                                                            Selina
+                                                            Leo
                                                         </div>
                                                     </div>
 
@@ -67,14 +67,14 @@ export default class Slider extends React.Component {
                                                         data-endspeed="400"
                                                         data-endeasing="Power0.easeIn">
                                                         <div className="tp-layer-inner-rotation tztitle-slider ">
-                                                            Jacos
+                                                            Mylien
                                                         </div>
                                                     </div>
                                                 </li>
                                                 {/* <!-- SLIDE  --> */}
                                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="600" data-saveperformance="off" >
                                                     {/* <!-- MAIN IMAGE --> */}
-                                                    <img src="http://placehold.it/1920x926" alt="home121" data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Power0.easeIn" data-bgfit="110" data-bgfitend="100" data-bgpositionend="center center" />
+                                                <img src="/images/1920X926.jpg" alt="home121" data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Power0.easeIn" data-bgfit="110" data-bgfitend="100" data-bgpositionend="center center" />
                                                     {/* <!-- LAYERS --> */}
             
                                                     {/* <!-- LAYER NR. 1 --> */}
@@ -105,7 +105,7 @@ export default class Slider extends React.Component {
                                                         data-elementdelay="0.1"
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
-                                                        data-endeasing="Power0.easeOut">Michael &#38; Johnny
+                                                        data-endeasing="Power0.easeOut">Leo &#38; Mylien
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 3 --> */}
@@ -171,7 +171,7 @@ export default class Slider extends React.Component {
                                                 {/* <!-- SLIDE  --> */}
                                                 <li data-transition="fade" data-slotamount="7" data-masterspeed="600" data-saveperformance="off" >
                                                     {/* <!-- MAIN IMAGE --> */}
-                                                    <img src="http://placehold.it/1920x1104" alt="home212" data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Power0.easeIn" data-bgfit="100" data-bgfitend="110" data-bgpositionend="center center" />
+                                                <img src="/images/1920X1104.jpg" alt="home212" data-bgposition="center top" data-kenburns="on" data-duration="10000" data-ease="Power0.easeIn" data-bgfit="100" data-bgfitend="110" data-bgpositionend="center center" />
                                                     {/* <!-- LAYERS --> */}
                             
                                                     {/* <!-- LAYER NR. 1 --> */}
@@ -186,7 +186,7 @@ export default class Slider extends React.Component {
                                                         data-elementdelay="0.1"
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
-                                                        data-endeasing="Power4.easeOut">Jenny
+                                                        data-endeasing="Power4.easeOut">Leo
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 2 --> */}
@@ -201,7 +201,7 @@ export default class Slider extends React.Component {
                                                         data-elementdelay="0.1"
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
-                                                        data-endeasing="Power4.easeOut">Mark
+                                                        data-endeasing="Power4.easeOut">Mylien
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 3 --> */}
