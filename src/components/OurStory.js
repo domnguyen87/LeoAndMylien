@@ -11,16 +11,12 @@ export default class OurStory extends React.Component {
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-7 rtl-right">
-                                            <img src="http://placehold.it/670x406" class="story_image pull-right" alt="ourstory" />
+                                            <img src="/images/670X406.jpg" class="story_image pull-right" alt="ourstory" />
                                         </div>
                                         <div class="col-md-5 rtl-left">
                                             <h3 class="title_ourstory">OUR STORY</h3>
                                             <div class="ourstory_content">
-                                                <p>Thank you for choosing CosmoThemes and purchasing one of our Premium WordPress Themes your choice is greatly appreciated!</p>
-
-                                                <p>The Head To Toe Bride is a workshop in Dayton, OH that a good photographer friend of mine is putting on. He asked me to do a quick logo and website for the workshop to give me details as to what it was. After a week this is what I had for him, you can see the website live at.</p>
-
-                                                <p>No workshop is complete without an amazing team of people, most of whom are usually behind the scenes. These amazing sponsors are contributing in so many different ways, and we could not be more excited! Let’s just say, each student at the Head to Toe Bride Workshop is in for some pretty sweet swag bags.</p>
+                                                <p>Our story began in March 2008 at LaGuardia Airport in New York. We were both going back to school in Atlanta. After a mutual friend introduced us we realized our seats were very close to each other. Dan could tell that Ariel, a classic nervous flyer, could use some support. A pretty turbulent flight allowed us to get to know each other. Throughout the rest of the semester we became good friends. As summer approached, we learned that we would be interning across the street from each other. After having lunch together every day that summer we both knew it was only a matter of time. When we got back to school for fall semester the rest was history!</p>
                                             </div>
                                         </div>
                                     </div>

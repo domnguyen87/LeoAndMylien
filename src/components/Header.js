@@ -4,7 +4,7 @@ export default class Header extends React.Component {
     render() {
         return (
             <React.Fragment>
-                <div className="vc_row wpb_row vc_row-fluid">
+                {/* <div className="vc_row wpb_row vc_row-fluid">
                     <div className="nocontainer">
                         <div className="vc_col-sm-12 wpb_column vc_column_container ">
                             <div className="wpb_wrapper">
@@ -17,8 +17,8 @@ export default class Header extends React.Component {
                                             <h3 className="tzlogo pull-left">
                                                 <a href="#" title="Everline">
                                                     <img src="images/Everline_logo.png" alt="Everline" />
-                                        </a>
-                                    </h3>
+                                                </a>
+                                            </h3>
                                                 <button className="tz-search pull-right"> <i className="fa fa-search"></i></button>
                                                 <nav className="pull-right tznav-menu">
                                                     <ul id="menu-primary" className="tz-menu nav-collapse themeple_megemenu">
@@ -211,7 +211,7 @@ export default class Header extends React.Component {
                                     </div>
                 </div>
                             </div>
-                        </div>
+                        </div> */}
             </React.Fragment>
         )
     }

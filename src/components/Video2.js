@@ -12,7 +12,7 @@ export default class Video2 extends React.Component {
                                     <button className="tzautoplay"><i className="fa fa-video-camera"></i></button>
                                     <button className="tzpause"><i className="fa fa-pause"></i></button>
                                     <h3>“The Power of Love”</h3>
-                                    <p>JENNIFER AND JAMES WEDDING VIDEO</p>
+                                    <p>LEO AND MYLIEN WEDDING VIDEO</p>
                                 </div>
                                 <div className="bg-video bg-video-home-2"></div>
                                 <video className="videoID">

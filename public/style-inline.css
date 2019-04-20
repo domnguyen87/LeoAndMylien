@@ -320,7 +320,7 @@ body#bd {background: #f5f5f5;}
 }
 .vc_custom_1423135867032,
 .vc_custom_1423213578883{
-    background-image: url("http://placehold.it/1920x926") !important;
+    background-image: url("/images/1920X9266.jpg") !important;
 }
 .vc_custom_1423135867032 .overlay_parallax{
     background-color:rgba(0,0,0,0.3);
@@ -339,7 +339,7 @@ body#bd {background: #f5f5f5;}
 }
 .bg-video.bg-video-home-2,
 .vc_custom_1423536877498{
-    background: url("http://placehold.it/1920x925") no-repeat  center center / cover  transparent !important;
+    background: url("/images/1920X925.jpg") no-repeat  center center / cover  transparent !important;
 }
 .bg-video.bg-video-home-4{
     background: url("http://placehold.it/1920x925") no-repeat  center center / cover  transparent !important;

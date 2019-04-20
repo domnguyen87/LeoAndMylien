@@ -11,7 +11,7 @@ export default class Info extends React.Component {
                                 <div className="tzintroduct">
                                     <h3>WEDDING DECOR</h3>
                                     <div className="tzintroduct-img">
-                                        <img src="http://placehold.it/370x370" className="attachment-full" alt="introduct1" />
+                                        <img src="/images/info1.jpg" className="attachment-full" alt="introduct1" />
                                     </div>
                                     <p>Thank you for choosing CosmoThemes and purchasing one of our Premium WordPress Themes your choice is greatly appreciated! </p>
                                 </div>
@@ -23,7 +23,7 @@ export default class Info extends React.Component {
                                 <div className="tzintroduct">
                                     <h3>BRIDE &amp; GROOM</h3>
                                     <div className="tzintroduct-img">
-                                        <img src="http://placehold.it/370x370" className="attachment-full" alt="introduct2" />
+                                        <img src="/images/info2.jpg" className="attachment-full" alt="introduct2" />
                                     </div>
                                     <p>Thank you for choosing CosmoThemes and purchasing one of our Premium WordPress Themes your choice is greatly appreciated!</p>
                                 </div>
@@ -34,7 +34,7 @@ export default class Info extends React.Component {
                                 <div className="tzintroduct">
                                     <h3>THE PROPOSE</h3>
                                     <div className="tzintroduct-img">
-                                        <img src="http://placehold.it/370x370" className="attachment-full" alt="introduct3" />
+                                        <img src="/images/info3.jpg" className="attachment-full" alt="introduct3" />
                                     </div>
                                     <p>Thank you for choosing CosmoThemes and purchasing one of our Premium WordPress Themes your choice is greatly appreciated!</p>
                                 </div>

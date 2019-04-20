@@ -66,7 +66,7 @@ export default class Rsvp extends React.Component {
                                         <div className="col-md-12">
                                             <div className="blog-item blog-style2">
                                                 <div className="blog-image">
-                                                    <img src="http://placehold.it/270x170" className="attachment-medium wp-post-image" alt="bloghome4" />
+                                                    <img src="/images/blog1.jpg" className="attachment-medium wp-post-image" alt="bloghome4" />
                                                 </div>
                                                 <div className="blog-description">
                                                     <h3><a href="#">Nulla facilisis vitae</a></h3>
@@ -82,7 +82,7 @@ export default class Rsvp extends React.Component {
                                         <div className="col-md-12">
                                             <div className="blog-item blog-style2">
                                                 <div className="blog-image">
-                                                    <img src="http://placehold.it/270x170" className="attachment-medium wp-post-image" alt="bloghome3" />
+                                                    <img src="/images/blog2.jpg" className="attachment-medium wp-post-image" alt="bloghome3" />
                                                 </div>
                                                 <div className="blog-description">
                                                     <h3><a href="#">Mauris viverra ipsum</a></h3>

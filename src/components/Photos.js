@@ -13,136 +13,90 @@ export default class Photos extends React.Component {
                                     <div id="post-137" className="post-137 portfolio type-portfolio status-publish has-post-thumbnail hentry element portfolio-item2">
                                         <div className="portfolio-padding">
                                             <div className="item-image">
-                                                <img src="http://placehold.it/270x270" className="attachment-full wp-post-image" alt="column8" />
+                                                <img src="/images/pg1.jpg" className="attachment-full wp-post-image" alt="column8" />
                                             </div>
                                             <div className="tzitem-content">
                                                 <i className="fa fa-heart-o tzicon"></i>
-                                                <h3><a href="#">sapien &#038; vitae</a></h3>
-                                                <div className="tzmeta">
-                                                    <span>February 6, 2015 /</span>
-                                                    <span className="tztag">
-                                                        <a href="#" rel="tag">NewYork</a>,<a href="#" rel="tag">USA</a>
-                                                    </span>
-                                                </div>
+                                                <h3><a href="#">Portland, Oregon 2015</a></h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div id="post-136" className="post-136 portfolio type-portfolio status-publish has-post-thumbnail hentry element portfolio-item2">
                                         <div className="portfolio-padding">
                                             <div className="item-image">
-                                                <img src="http://placehold.it/270x270" className="attachment-full wp-post-image" alt="column7" />
+                                                <img src="/images/pg2.jpg" className="attachment-full wp-post-image" alt="column7" />
                                             </div>
                                             <div className="tzitem-content">
                                                 <i className="fa fa-heart-o tzicon"></i>
-                                                <h3><a href="#">Metus &#038; felis</a></h3>
-                                                <div className="tzmeta">
-                                                    <span>February 6, 2015 /</span>
-                                                    <span className="tztag">
-                                                        <a href="#" rel="tag">NewYork</a>,<a href="#" rel="tag">USA</a>
-                                                    </span>
-                                                </div>
+                                                <h3><a href="#">Big Sur, California 2014</a></h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div id="post-135" className="post-135 portfolio type-portfolio status-publish has-post-thumbnail hentry element portfolio-item2">
                                         <div className="portfolio-padding">
                                             <div className="item-image">
-                                                <img src="http://placehold.it/270x270" className="attachment-full wp-post-image" alt="column6" />
+                                                <img src="/images/pg3.jpg" className="attachment-full wp-post-image" alt="column6" />
                                             </div>
                                             <div className="tzitem-content">
                                                 <i className="fa fa-heart-o tzicon"></i>
-                                                <h3><a href="#">Cras &#038; ornare</a></h3>
-                                                <div className="tzmeta">
-                                                    <span>February 6, 2015 /</span>
-                                                    <span className="tztag">
-                                                        <a href="#" rel="tag">NewYork</a>,<a href="#" rel="tag">USA</a>
-                                                    </span>
-                                                </div>
+                                                <h3><a href="#">Antelope Canyon, Arizona 2015</a></h3>
+                                                
                                             </div>
                                         </div>
                                     </div>
                                     <div id="post-134" className="post-134 portfolio type-portfolio status-publish has-post-thumbnail hentry element portfolio-item2">
                                         <div className="portfolio-padding">
                                             <div className="item-image">
-                                                <img src="http://placehold.it/270x270" className="attachment-full wp-post-image" alt="column5" />
+                                                <img src="/images/pg4.jpg" className="attachment-full wp-post-image" alt="column5" />
                                             </div>
                                             <div className="tzitem-content">
                                                 <i className="fa fa-heart-o tzicon"></i>
-                                                <h3><a href="#">Donec &#038; ornare</a></h3>
-                                                <div className="tzmeta">
-                                                    <span>February 6, 2015 /</span>
-                                                    <span className="tztag">
-                                                        <a href="#" rel="tag">NewYork</a>,<a href="#" rel="tag">USA</a>
-                                                    </span>
-                                                </div>
+                                                <h3><a href="#">Barcelona, Spain 2017</a></h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div id="post-130" className="post-130 portfolio type-portfolio status-publish has-post-thumbnail hentry element portfolio-item2">
                                         <div className="portfolio-padding">
                                             <div className="item-image">
-                                                <img src="http://placehold.it/270x270" className="attachment-full wp-post-image" alt="column3" />
+                                                <img src="/images/pg5.jpg" className="attachment-full wp-post-image" alt="column3" />
                                             </div>
                                             <div className="tzitem-content">
                                                 <i className="fa fa-heart-o tzicon"></i>
-                                                <h3><a href="#">Sapien &#038; elit</a></h3>
-                                                <div className="tzmeta">
-                                                    <span>February 6, 2015 /</span>
-                                                    <span className="tztag">
-                                                        <a href="#" rel="tag">NewYork</a>,<a href="#" rel="tag">USA</a>
-                                                    </span>
-                                                </div>
+                                                <h3><a href="#">Lake Morraine, Banff National Park 2018</a></h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div id="post-128" className="post-128 portfolio type-portfolio status-publish has-post-thumbnail hentry element portfolio-item2">
                                         <div className="portfolio-padding">
                                             <div className="item-image">
-                                                <img src="http://placehold.it/270x270" className="attachment-full wp-post-image" alt="column4" />
+                                                <img src="/images/pg6.jpg" className="attachment-full wp-post-image" alt="column4" />
                                             </div>
                                             <div className="tzitem-content">
                                                 <i className="fa fa-heart-o tzicon"></i>
-                                                <h3><a href="#">Aliquam &#038; elit</a></h3>
-                                                <div className="tzmeta">
-                                                    <span>February 6, 2015 /</span>
-                                                    <span className="tztag">
-                                                        <a href="#" rel="tag">NewYork</a>,<a href="#" rel="tag">USA</a>
-                                                    </span>
-                                                </div>
+                                                <h3><a href="#">Lake OHare, Yoho National Park 2018</a></h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div id="post-127" className="post-127 portfolio type-portfolio status-publish has-post-thumbnail hentry element portfolio-item2">
                                         <div className="portfolio-padding">
                                             <div className="item-image">
-                                                <img src="http://placehold.it/270x270" className="attachment-full wp-post-image" alt="column2" />
+                                                <img src="/images/pg7.jpg" className="attachment-full wp-post-image" alt="column2" />
                                             </div>
                                             <div className="tzitem-content">
                                                 <i className="fa fa-heart-o tzicon"></i>
-                                                <h3><a href="#">Majority &#038; orci</a></h3>
-                                                <div className="tzmeta">
-                                                    <span>February 6, 2015 /</span>
-                                                    <span className="tztag">
-                                                        <a href="#" rel="tag">NewYork</a>,<a href="#" rel="tag">USA</a>
-                                                    </span>
-                                                </div>
+                                                <h3><a href="#">Kauai, Hawaii 2018</a></h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div id="post-118" className="post-118 portfolio type-portfolio status-publish has-post-thumbnail hentry element portfolio-item2">
                                         <div className="portfolio-padding">
                                             <div className="item-image">
-                                                <img src="http://placehold.it/270x270" className="attachment-full wp-post-image" alt="column1" />
+                                                <img src="/images/pg8.jpg" className="attachment-full wp-post-image" alt="column1" />
                                             </div>
                                             <div className="tzitem-content">
                                                 <i className="fa fa-heart-o tzicon"></i>
-                                                <h3><a href="#">Many &#038; orci</a></h3>
-                                                <div className="tzmeta">
-                                                    <span>February 6, 2015 /</span>
-                                                    <span className="tztag">
-                                                        <a href="#" rel="tag">NewYork</a>,<a href="#" rel="tag">USA</a>
-                                                    </span>
-                                                </div>
+                                                <h3><a href="#">Puerto Vallarta, Mexico 2014</a></h3>
+                                                
                                             </div>
                                         </div>
                                     </div>

@@ -20,7 +20,7 @@ export default class Slider extends React.Component {
         
                                                     {/* <!-- LAYER NR. 1 --> */}
                                                     <div className="tp-caption tzcharacters customin tp-resizeme"
-                                                        data-x="390"
+                                                        data-x="700"
                                                         data-y="237"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1.1;scaleY:1.1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
                                                         data-speed="580"
@@ -35,7 +35,7 @@ export default class Slider extends React.Component {
 
                                                     {/* <!-- LAYER NR. 2 --> */}
                                                     <div className="tp-caption customin stt tp-resizeme"
-                                                        data-x="148"
+                                                        data-x="458"
                                                         data-y="center" data-voffset="-68"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1.1;scaleY:1.1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
                                                         data-speed="500"
@@ -54,7 +54,7 @@ export default class Slider extends React.Component {
 
                                                     {/* <!-- LAYER NR. 3 --> */}
                                                     <div className="tp-caption customin stb tp-resizeme"
-                                                        data-x="85"
+                                                        data-x="395"
                                                         data-y="center" data-voffset="72"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1.1;scaleY:1.1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
                                                         data-speed="500"
@@ -186,7 +186,7 @@ export default class Slider extends React.Component {
                                                         data-elementdelay="0.1"
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
-                                                        data-endeasing="Power4.easeOut">Leo
+                                                        data-endeasing="Power4.easeOut">Mylien
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 2 --> */}
@@ -201,12 +201,12 @@ export default class Slider extends React.Component {
                                                         data-elementdelay="0.1"
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
-                                                        data-endeasing="Power4.easeOut">Mylien
+                                                        data-endeasing="Power4.easeOut">Leo
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 3 --> */}
                                                     <div className="tp-caption tzcharacters2 customin customout tp-resizeme"
-                                                        data-x="center" data-hoffset="0"
+                                                        data-x="center" data-hoffset="50"
                                                         data-y="center" data-voffset="15"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.05;scaleY:0.05;skewX:0;skewY:0;opacitransformPerspective:600;transformOrigin:50% 50%;"
                                                         data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.05;scaleY:0.05;skewX:0;skewY:0;opacitransformPerspective:600;transformOrigin:50% 50%;"
