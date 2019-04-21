@@ -20,8 +20,8 @@ export default class Slider extends React.Component {
         
                                                     {/* <!-- LAYER NR. 1 --> */}
                                                     <div className="tp-caption tzcharacters customin tp-resizeme"
-                                                        data-x="700"
-                                                        data-y="237"
+                                                        data-x="625"
+                                                        data-y="255"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1.1;scaleY:1.1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
                                                         data-speed="580"
                                                         data-start="1000"
@@ -67,7 +67,7 @@ export default class Slider extends React.Component {
                                                         data-endspeed="400"
                                                         data-endeasing="Power0.easeIn">
                                                         <div className="tp-layer-inner-rotation tztitle-slider ">
-                                                            Mylien
+                                                            Lien
                                                         </div>
                                                     </div>
                                                 </li>
@@ -105,7 +105,7 @@ export default class Slider extends React.Component {
                                                         data-elementdelay="0.1"
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
-                                                        data-endeasing="Power0.easeOut">Leo &#38; Mylien
+                                                        data-endeasing="Power0.easeOut">Leo &#38; Lien
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 3 --> */}
@@ -133,7 +133,7 @@ export default class Slider extends React.Component {
                                                         data-elementdelay="0.1"
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
-                                                        data-endeasing="Power4.easeOut">Thank you for choosing CosmoThemes and purchasing one of our Premium <br />WordPress Themyour choice is greatly appreciated!
+                                                    data-endeasing="Power4.easeOut">With joyous hearts we invite you to share in our weekend < br/> of celebration as best friends become husband &#38; wife
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 5 --> */}
@@ -148,7 +148,7 @@ export default class Slider extends React.Component {
                                                         data-elementdelay="0.1"
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
-                                                        data-endeasing="Power4.easeOut">12TH NOVEMBER, 2014 IN GUSH GARDEN
+                                                    data-endeasing="Power4.easeOut">MAY 11th, 2019 < br /> BREA COMMUNITY CENTER
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 6 --> */}
@@ -186,7 +186,7 @@ export default class Slider extends React.Component {
                                                         data-elementdelay="0.1"
                                                         data-endelementdelay="0.1"
                                                         data-endspeed="400"
-                                                        data-endeasing="Power4.easeOut">Mylien
+                                                        data-endeasing="Power4.easeOut">Lien
                                                     </div>
 
                                                     {/* <!-- LAYER NR. 2 --> */}
@@ -206,7 +206,7 @@ export default class Slider extends React.Component {
 
                                                     {/* <!-- LAYER NR. 3 --> */}
                                                     <div className="tp-caption tzcharacters2 customin customout tp-resizeme"
-                                                        data-x="center" data-hoffset="50"
+                                                        data-x="center" data-hoffset="19"
                                                         data-y="center" data-voffset="15"
                                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.05;scaleY:0.05;skewX:0;skewY:0;opacitransformPerspective:600;transformOrigin:50% 50%;"
                                                         data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.05;scaleY:0.05;skewX:0;skewY:0;opacitransformPerspective:600;transformOrigin:50% 50%;"

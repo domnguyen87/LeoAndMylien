@@ -9,7 +9,7 @@ export default class CountDown extends React.Component {
                         <div className="wpb_wrapper">
                             <div className="tzcountdown2">
                                 <div className="container">
-                                    <h3 className="tzcount_title">COUNTDOWN TO MYLIEN &amp; LEO WEDDING CEREMONY</h3>
+                                    <h3 className="tzcount_title">COUNTDOWN TO LIEN &amp; LEO WEDDING CEREMONY</h3>
                                     <div className="countdown">
                                         <div className="row">
                                             <div className="col-md-3">

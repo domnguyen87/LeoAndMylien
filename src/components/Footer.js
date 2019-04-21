@@ -6,27 +6,18 @@ export default class Footer extends React.Component {
             <footer className="tz-footer">
                 <div className="container">
                     <div className="row">
-                        <div className="col-md-4 footerattr">
+                        <div className="col-md-6 footerattr">
                             <aside id="contact_info-2" className="widget_contact_info widget">
                                 <h3 className="module-title title-widget"><span>LOCATION</span></h3>
                                 <div className="tzwidget-contact">
-                                    <address> London, UK, 10, Friks Avenue </address>
-                                    <span> +0987 092 291 091 </span>
-                                    <span className="wemail">info@everline.com</span>
+                                    <address> Brea Community Center </address>
+                                    <address> 2695 Madison Way, Brea, CA 92821 </address>
+                                    <span> (714) 369-0058 </span>
+                                    <span className="wemail">info@mylienandleo.com</span>
                                 </div>
                             </aside>
                         </div>
-                        <div className="col-md-4 footerattr">
-                            <aside id="widget_logo-2" className="widget_widget_logo widget">
-                                <div className="tz_logo_widget">
-                                    <a href="#">
-                                        <img src="images/EverlineTheme.png" alt="Everline" />
-                                </a>
-                                        <p>All right server. Copyright by  TemPlaza.com</p>
-                            </div>
-                        </aside>
-                    </div>
-                            <div className="col-md-4 footerattr">
+                            <div className="col-md-6 footerattr">
                                 <aside id="tz_social-2" className="widget_tz_social widget">
                                     <h3 className="module-title title-widget"><span>GET IN TOUCH</span></h3>
                                     <div className="tz_social">
