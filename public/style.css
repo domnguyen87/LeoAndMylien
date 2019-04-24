@@ -2913,7 +2913,8 @@ div.wpcf7-validation-errors{
 
 
 .tz-video-content h3{
-    font-family: 'Rouge Script', cursive;
+    /* font-family: 'Rouge Script', cursive; */
+    font-family: 'Shadows Into Light', cursive;
     line-height: 92px;
     font-size: 84px;
     color: #fff;
@@ -3360,7 +3361,8 @@ div.wpcf7-validation-errors{
     padding-left: 6px;
 }
 .title_testimonials{
-    font-family: "Rouge Script",cursive;
+    /* font-family: "Rouge Script",cursive; */
+    font-family: 'Shadows Into Light', cursive;
     font-size: 55px;
     color: #fff;
     text-align: center;
